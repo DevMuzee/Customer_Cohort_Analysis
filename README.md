@@ -98,4 +98,5 @@ You can download the final output of this project below:
 
 - 📊 [Cohort Pivot Table CSV](https://github.com/DevMuzee/Customer_Cohort_Analysis/blob/b8f0ade949db5b757f7959f09884e6739d1ec6f1/cohort_percent.csv)
 - 📉 [Cohort Percentage Table CSV](https://github.com/DevMuzee/Customer_Cohort_Analysis/blob/b8f0ade949db5b757f7959f09884e6739d1ec6f1/cohort_pivot.csv)
+- 📉 [Heatmap](https://github.com/DevMuzee/Customer_Cohort_Analysis/blob/7c5ecd55f81af8328ffa614d2485203ebdb00ced/my_heatmap.png)
 
