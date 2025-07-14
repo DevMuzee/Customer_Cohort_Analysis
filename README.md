@@ -97,5 +97,5 @@ python cohort_analysis.py
 You can download the final output of this project below:
 
 - 📊 [Cohort Pivot Table CSV](https://github.com/DevMuzee/Customer_Cohort_Analysis/blob/b8f0ade949db5b757f7959f09884e6739d1ec6f1/cohort_percent.csv)
-- 📉 [Cohort Percentage Table CSV]
+- 📉 [Cohort Percentage Table CSV](https://github.com/DevMuzee/Customer_Cohort_Analysis/blob/b8f0ade949db5b757f7959f09884e6739d1ec6f1/cohort_pivot.csv)
 
