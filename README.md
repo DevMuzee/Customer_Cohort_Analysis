@@ -39,17 +39,14 @@ graph TD;
     G --> H["Cohort Percentage Table"];
 ```
 
-## 🔄 Pipeline Overview
-Raw Transaction Data → ETL Process in Python → SQLite Tables→ Cleaned Data (retail_virt) → Customer Cohort Table→ Cohort Index Table → Cohort Pivot Table → Cohort Percentage Table
-
 ---
 
 ## 📂 Project Structure
-cohort-analysis/
-  ├── cohort_analysis.py     # Main Python script with all SQL queries
-  ├── requirements.txt       # Optional: Python dependencies
-  └── README.md              # Project documentation
-
+```mermaid
+graph TD;
+    A["cohort_analysis.py"] --> B["requirements.txt"];
+    B --> C[" README.md"];
+```
 ---
 
 ## 📈 SQL Logic Breakdown
@@ -94,3 +91,11 @@ cd cohort-analysis
 ```bash
 python cohort_analysis.py
 ```
+
+## 📄 Downloadable Output Files
+
+You can download the final output of this project below:
+
+- 📊 [Cohort Pivot Table CSV](https://github.com/your-username/cohort-analysis/blob/main/cohort_pivot.csv)
+- 📉 [Cohort Percentage Table CSV](https://github.com/your-username/cohort-analysis/blob/main/cohort_percent.csv)
+
