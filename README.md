@@ -22,7 +22,7 @@ This project demonstrates how to clean retail data, create cohorts based on firs
 - **SQLite** (In-memory SQL operations)
 - **SQL** (CTEs, window functions, date manipulation)
 - **Jupyter Notebook** or **Python IDE**
-- **Excel/Google Sheets** *(optional for visualization)*
+- **Excel/Google Sheets** 
 
 ---
 
